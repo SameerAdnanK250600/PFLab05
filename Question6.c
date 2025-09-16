@@ -1,3 +1,5 @@
+// CHANGE THIS TO PRINT BINARY ASWELL, WILL DO
+
 #include <stdio.h>
 
 int main() {	
